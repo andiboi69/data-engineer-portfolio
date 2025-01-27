@@ -5,6 +5,7 @@ I build scalable data pipelines, optimize ETL workflows, and enable data-driven 
 
 ## 🛠️ Technical Skills
 - **Cloud Platforms**: Azure (ADF, Databricks, Fabric)
+- **On-Premise Platforms**: Microsoft BI (SSIS, SSAS, SSRS)
 - **ETL/ELT**: Azure Data Factory, Databricks, Spark, SQL
 - **Data Warehousing**: Azure Synapse, Fabric Data Warehouse
 - **BI Tools**: Power BI, Fabric Power BI integration
